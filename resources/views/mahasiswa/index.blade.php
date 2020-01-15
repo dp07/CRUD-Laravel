@@ -1,7 +1,7 @@
 <!-- relative terhadap folder view -->
 @extends('layout/main')
 
-@section('title', 'Dartar Mahasiswa')
+@section('title', 'Daftar Mahasiswa')
 
 @section('container')
 <div class="container">
